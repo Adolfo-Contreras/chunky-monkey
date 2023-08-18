@@ -27,6 +27,24 @@ color: rgb(41, 42, 44);
     font-size: 25px;
     color: rgb(41, 42, 44);
 }
+.nav3{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 25px;
+    color: rgb(41, 42, 44);
+}
+
+.nav4{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 25px;
+    color: rgb(41, 42, 44);
+}
+
+a:hover{
+    color:brown;
+}
+
 
 #head{
 text-align: center;
