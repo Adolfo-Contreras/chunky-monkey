@@ -7,29 +7,29 @@ html, head, body, h1, p {
     display: flex;
     justify-content: center;
     height: 80px;
-    background-color: rgb(201, 162, 238);
+    background-color: rgb(0, 0, 0);
 }
 h1 {
     padding-top: 10px;
     font-size: 50px;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 #navbar {
     height: 50px;
-    background-color: rgb(201, 162, 238);
+    background-color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
 }
 a {
     margin-right: 15px;
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 #content-left {
     width: 50%;
     height: 600px;
     float: left;
-    background-color: rgb(243, 236, 228);
+    background-color: azure;
 }
 #content-right {
     width: 50%;
