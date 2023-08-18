@@ -5,7 +5,19 @@
 }
 h1 {
     text-align: center;
+    font-family: "Montserrat";
+    padding-bottom: 30px;
+}
+ul, li, a {
+    display: inline;
+    text-decoration: none;
+    color: black;
+}
+a {
+    font-size: 20px;
+}
+div {
+    text-align: center;
     background-color: cadetblue;
     padding: 20px;
-    font-family: "Montserrat";
 }
