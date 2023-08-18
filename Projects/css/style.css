@@ -1,0 +1,11 @@
+* {
+    margin:0;
+    padding:0;
+    border:0;
+}
+h1 {
+    text-align: center;
+    background-color: cadetblue;
+    padding: 20px;
+    font-family: "Montserrat";
+}
