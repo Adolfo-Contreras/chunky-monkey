@@ -25,6 +25,9 @@ a {
     text-decoration: none;
     color: rgb(255, 255, 255);
 }
+a:hover {
+    color: gray;
+}
 #content-left {
     width: 50%;
     height: 600px;

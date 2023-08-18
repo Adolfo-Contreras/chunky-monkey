@@ -1,0 +1,26 @@
+* {
+    margin:0;
+    padding:0;
+    border:0;
+}
+h1 {
+    text-align: center;
+    font-family: "Montserrat";
+    padding-bottom: 30px;
+}
+ul, li, a {
+    display: inline;
+    text-decoration: none;
+    color: black;
+}
+li {
+    margin:auto 20px;
+}
+a {
+    font-size: 20px;
+}
+div {
+    text-align: center;
+    background-color: cadetblue;
+    padding: 20px;
+}
