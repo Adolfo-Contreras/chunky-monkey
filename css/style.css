@@ -2,6 +2,7 @@
     margin:0;
     padding:0;
     border:0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 h1 {
     text-align: center;
@@ -19,9 +20,23 @@ li {
 a {
     font-size: 20px;
 }
-div {
+#title {
     text-align: center;
     background-color: cadetblue;
     padding: 20px;
     font-family: "Montserrat";
+}
+#box {
+    height: 500px;
+}
+.text {
+    padding: 15px;
+    margin: 10px;
+    width:300px;
+    float: left;
+    border: 5px solid #dd6e42;
+    background-color: cadetblue;
+}
+p {
+
 }
